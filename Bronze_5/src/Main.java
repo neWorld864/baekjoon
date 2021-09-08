@@ -8,7 +8,6 @@ public class Main {
 		if(0 < a && b < 10) {
 			System.out.println(a+b);
 		}
-
 	}
 
 }
